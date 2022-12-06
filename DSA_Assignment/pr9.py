@@ -37,12 +37,3 @@ print("----------------------------")
 print("\nRevese Stack")
 Reverse(s)
 s.show()
-
-
-
-
-
-# def rev_stack(stack):
-#     return stack[::-1]
-# stack=[54,57,14,26,59,86]
-# print(rev_stack(stack))
